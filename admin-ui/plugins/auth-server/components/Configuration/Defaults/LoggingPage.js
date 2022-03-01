@@ -150,6 +150,7 @@ function LoggingPage({ logging, dispatch, permissions, loading }) {
                     value={logging.httpLoggingEnabled}
                     doc_category={JSON_CONFIG}
                   ></GluuCheckBoxRow>
+
                   <GluuCheckBoxRow
                     label="fields.disable_jdk_logger"
                     name="disableJdkLogger"
