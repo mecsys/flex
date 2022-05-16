@@ -19,7 +19,6 @@ function ApiKeyRedirect({
         ) : (
           <div
             style={{
-              backgroundColor: 'white',
               margin: 'auto',
               marginTop: '20%',
             }}
