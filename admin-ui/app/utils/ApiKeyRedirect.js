@@ -29,8 +29,8 @@ function ApiKeyRedirect({
                 marginLeft: 'auto',
                 marginTop: 'auto',
                 marginRight: 'auto',
-                width: '25%',
-                height: '25%',
+                width: '30%',
+                height: '30%',
               }}
               src={require('Images/gif/npe-redirecting.gif')}
               alt="loading..."
