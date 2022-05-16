@@ -17,20 +17,14 @@ function ApiKeyRedirect({
         {!isLicenseValid && islicenseCheckResultLoaded ? (
           <ApiKey />
         ) : (
-          <div
-            style={{
-              margin: 'auto',
-              marginTop: '20%',
-            }}
-          >
             <img
               style={{
                 display: 'block',
                 marginLeft: 'auto',
                 marginTop: 'auto',
                 marginRight: 'auto',
-                width: '100%',
-                height: '100%',
+                width: '70%',
+                height: '70%',
               }}
               src={require('Images/gif/npe-redirecting.gif')}
               alt="loading..."
