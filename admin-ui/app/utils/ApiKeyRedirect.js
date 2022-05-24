@@ -22,7 +22,7 @@ function ApiKeyRedirect({
                       top: '0',
                       left: '0',
                       width: '100vw',
-                      height: '100vh'
+                      height: '100vh',
                       display: 'flex',
                       justify-content: 'center',
                       align-items: 'center',
