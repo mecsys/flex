@@ -20,7 +20,7 @@ function ApiKeyRedirect({
           <div
             style={{
               margin: 'auto',
-              marginTop: '25%',
+              marginTop: '10%',
             }}
           >
             <img
