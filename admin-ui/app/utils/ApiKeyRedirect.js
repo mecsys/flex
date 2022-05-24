@@ -26,6 +26,8 @@ function ApiKeyRedirect({
                       display: 'flex',
                       justifyContent: 'center',
                       alignItems: 'center',
+                      position: 'fixed',
+                      zIndex: '99999',
             }}
           >
             <img
