@@ -24,8 +24,8 @@ function ApiKeyRedirect({
                       width: '100vw',
                       height: '100vh',
                       display: 'flex',
-                      justify-content: 'center',
-                      align-items: 'center',
+                      justifyContent: 'center',
+                      alignItems: 'center',
             }}
           >
             <img
