@@ -19,8 +19,13 @@ function ApiKeyRedirect({
         ) : (
           <div
             style={{
-              margin: 'auto',
-              marginTop: '25%',
+                      top: '0',
+                      left: '0',
+                      width: '100vw',
+                      height: '100vh'
+                      display: 'flex',
+                      justify-content: 'center',
+                      align-items: 'center',
             }}
           >
             <img
